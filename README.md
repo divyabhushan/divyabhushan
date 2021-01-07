@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 thanks for visiting my profile.
+
+I love to generate various internal/external software documentations following Engineering and business standards, also enjoy writing technical articles.
+
+I have been learning/working on Database, Linux/Unix, SDLC, and Git and teaching others to use them professionally. 
+
+<p>
+<a href="https://github.com/divyabhushan"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdivyabhushan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+</p>
+
 
 <!--
 **divyabhushan/divyabhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
