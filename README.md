@@ -8,7 +8,7 @@ I have been learning/working on Database, Linux/Unix, SDLC, and Git and teaching
 <a href="https://github.com/divyabhushan"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdivyabhushan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 </p>
 
-
+I am pleased to share my recent article on [robots.txt not found — how to fix it on your Docusaurus website?](https://divya-bhushan.medium.com/where-to-place-the-robots-txt-file-in-your-docusaurus-website-45d18e40e285).
 <!--
 **divyabhushan/divyabhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
