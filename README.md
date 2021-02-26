@@ -1,11 +1,5 @@
 ### Hi there 👋 thanks for visiting my profile.
 
-<iframe
-src="https://divyabhushan.github.io/my-app/"
-width="100%"
-height="560"
-/>
-
 I love to generate various internal/external software documentations following Engineering and business standards, also enjoy writing technical articles.
 
 I have been learning/working on Database, Linux/Unix, SDLC, and Git and teaching others to use them professionally. 
