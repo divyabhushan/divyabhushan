@@ -6,7 +6,7 @@ I have been learning/working on Database, Linux/Unix, SDLC, and Git and teaching
 
 I am pleased to share my recent article on [robots.txt not found — how to fix it on your Docusaurus website?](https://divya-bhushan.medium.com/where-to-place-the-robots-txt-file-in-your-docusaurus-website-45d18e40e285).
 
-Check out my [Linux `chmod` Calculator](https://divyabhushan.github.io/my-app/) for easy access.
+Check out my handy [Linux `chmod` Calculator](https://divyabhushan.github.io/my-app/) :smile:
 
 <!--
 **divyabhushan/divyabhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
