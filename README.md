@@ -4,7 +4,7 @@ I love to generate various internal/external software documentations following E
 
 I have been learning/working on Database, Linux/Unix, SDLC, and Git and teaching others to use them professionally. 
 
-I am pleased to share my recent article on [robots.txt not found — how to fix it on your Docusaurus website?](https://divya-bhushan.medium.com/where-to-place-the-robots-txt-file-in-your-docusaurus-website-45d18e40e285).
+I am pleased to share my recent article on [Restrict Web bots crawling on your website while using Docusaurus](https://divya-bhushan.medium.com/where-to-place-the-robots-txt-file-in-your-docusaurus-website-45d18e40e285).
 
 Check out my handy [Linux `chmod` Calculator](https://divyabhushan.github.io/my-app/) :smile:
 
