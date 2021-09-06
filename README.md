@@ -6,9 +6,10 @@ I have been learning/working on Database, Linux/Unix, SDLC, and Git and teaching
 
 I am excited to share my recent article [Collapsible list with Bootstrap Accordion](https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a)
 
+<!--
+
 Check out my handy [Linux `chmod` Calculator](https://divyabhushan.github.io/my-app/) :smile:
 
-<!--
 **divyabhushan/divyabhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
