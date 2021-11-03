@@ -1,10 +1,10 @@
 ### Hi there 👋 thanks for visiting my profile.
 
-I love to generate various internal/external software documentations following Engineering and business standards, also enjoy writing technical articles.
+I am pleased to share my recent [MS SQL Server](https://hasura.io/learn/database/microsoft-sql-server/introduction/) tutorial on Hasura.
 
-I have been learning/working on Database, Linux/Unix, SDLC, and Git and teaching others to use them professionally. 
+Also check out how I implemented: [Collapsible list with Bootstrap Accordion](https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a)
 
-I am excited to share my recent article [Collapsible list with Bootstrap Accordion](https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a)
+- 🌱 I’m currently learning - GraphQL
 
 <!--
 
@@ -15,7 +15,7 @@ Check out my handy [Linux `chmod` Calculator](https://divyabhushan.github.io/my-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
