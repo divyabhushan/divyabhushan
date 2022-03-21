@@ -4,8 +4,8 @@ I am pleased to share my recent [MS SQL Server](https://hasura.io/learn/database
 
 Also check out how I implemented: [Collapsible list with Bootstrap Accordion](https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a)
 
- - 🔭 I’m currently working on awesome Hasura documentation :)
-
+ - 🔭 I’m open to accepting new challenges in technical writing :)
+ 
 <!--
 
 Check out my handy [Linux `chmod` Calculator](https://divyabhushan.github.io/my-app/) :smile:
