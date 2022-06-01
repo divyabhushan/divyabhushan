@@ -3,8 +3,6 @@
 I am pleased to share my recent [MS SQL Server](https://hasura.io/learn/database/microsoft-sql-server/introduction/) tutorial on Hasura.
 
 Also check out how I implemented: [Collapsible list with Bootstrap Accordion](https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a)
-
- - 🔭 I’m open to accepting new challenges in technical writing :)
  
 <!--
 
