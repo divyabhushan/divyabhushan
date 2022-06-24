@@ -1,8 +1,11 @@
 ### Hi there 👋 thanks for visiting my profile.
 
-I am pleased to share my recent [MS SQL Server](https://hasura.io/learn/database/microsoft-sql-server/introduction/) tutorial on Hasura.
+In my new article, I jotted down the steps that I took to [transfer a huge file from my host (Mac) OS to a Google Cloud instance](https://divya-bhushan.medium.com/transfer-files-to-the-google-cloud-instance-2023a9f47bee?sk=eb455eee1062cdd4741b1f5ebde94703). 
 
-Also check out how I implemented: [Collapsible list with Bootstrap Accordion](https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a)
+Other stuff by me:
+
+* [MS SQL Server](https://hasura.io/learn/database/microsoft-sql-server/introduction/)
+* [Collapsible list with Bootstrap Accordion](https://divya-bhushan.medium.com/collapsible-list-with-bootstrap-accordion-29e457f4ac2a)
  
 <!--
 
